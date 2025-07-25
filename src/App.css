@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .pane {
+    flex: 1;
+    display: flex;
+  }
+  
+  .top-pane {
+    height: 50vh;
+  }
+  
+  iframe {
+    background-color: white;
+  }
+  
