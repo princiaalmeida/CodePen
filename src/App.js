@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState, useEffect } from 'react';
 import Editor from './components/Editor';
 import './App.css';
