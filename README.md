@@ -9,6 +9,9 @@ This project is a simplified web-based code editor. It allows users to write and
 * **Syntax Highlighting**: CodeMirror integration provides syntax highlighting for HTML, CSS, and JavaScript, enhancing readability.
 * **Expand/Collapse Editors**: Buttons to easily expand or collapse individual editor panels for a focused view.
 
+## DEPLOYMENT
+https://my-react-codepen-87b8f760z-princiaalmeidas-projects.vercel.app
+
 ## DEMO
 https://github.com/user-attachments/assets/4f551c94-2ebe-468a-80d7-e0510dc563ea
 
